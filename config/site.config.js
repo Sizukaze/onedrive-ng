@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'swords',
-      link: 'https://www.swordart-online.net/',
+      link: 'https://www.swordart-online.net',
     },
   ],
 
