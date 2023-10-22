@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'swords',
+      name: 'star-of-david',
       link: 'https://www.swordart-online.net',
     },
   ],
