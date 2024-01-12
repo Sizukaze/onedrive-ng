@@ -39,7 +39,13 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/👤 Private', '/🌏 Personal'],
+  protectedRoutes: ['/👤 Private',
+                    '/🌏 Personal',
+                    '/☁ Share/najar-2020 4K120FPS',
+                    '/☁ Share/najar-2021 4K120FPS',
+                    '/☁ Share/najar-2022 4K120FPS',
+                    '/☁ Share/najar-2023 4K120FPS',
+  ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
